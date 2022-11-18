@@ -1,0 +1,2 @@
+# firstnumpy
+firstnumpy file python
